@@ -26,9 +26,9 @@ The main critical section is showed here, using 'lock' keyword, synchronization 
 ````
 ![ScreenRecording2025-03-20124042-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/6782d370-9460-40c0-8a93-9534f114beb5)
 
-
+##
 Pros: 
 - Simple
-- Easy to maintance
-Cons:
+- Easy to maintance   
+Cons:  
 - Hard to scale. Must be full refactored.
