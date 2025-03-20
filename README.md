@@ -24,8 +24,8 @@ The main critical section is showed here, using 'lock' keyword, synchronization 
      Console.ReadKey();
  }
 ````
+![ScreenRecording2025-03-20124042-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/6782d370-9460-40c0-8a93-9534f114beb5)
 
-![ScreenRecording2025-03-20124042-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9948ec49-0134-40f7-99dc-4f7437ef1cd5)
 
 Pros: 
 - Simple
