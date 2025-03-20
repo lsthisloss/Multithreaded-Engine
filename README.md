@@ -28,5 +28,5 @@ The main critical section is showed here, using 'lock' keyword, synchronization 
 
 ##
 Pros/Cons: 
-+ Simple. Easy to maintance.  
++ Simple. Easy to code.
 - Hard to scale. Must be full refactored.
