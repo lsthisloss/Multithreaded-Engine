@@ -25,7 +25,8 @@ The main critical section is showed here, using 'lock' keyword, synchronization 
  }
 ````
 
-![ScreenRecording2025-03-20122317-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/95fa198b-cabf-4cf1-a2b9-fc8064546983)
+![ScreenRecording2025-03-20124042-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9948ec49-0134-40f7-99dc-4f7437ef1cd5)
+
 Pros: 
 - Simple
 - Easy to maintance
